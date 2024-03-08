@@ -18,6 +18,9 @@ export default {
       fontFamily: {
         sans: ["Rubik", "sans-serif"],
       },
+      backgroundImage: () => ({
+        dots: "url(./assets/bg-dots.svg)",
+      }),
     },
   },
   plugins: [],

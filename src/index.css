@@ -20,3 +20,8 @@
 .is-active {
   @apply border-b-4 border-softRed text-softRed;
 }
+
+.ficon:hover {
+  filter: invert(53%) sepia(38%) saturate(3303%) hue-rotate(326deg)
+    brightness(101%) contrast(96%);
+}

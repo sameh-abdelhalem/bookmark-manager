@@ -21,7 +21,7 @@ const Navbar = () => {
           </a>
           <a
             href="#"
-            className="px-8 py-2 text-white bg-softRed border-2 border-softRed rounded-lg shadow-md hover:text-softRed hover:bg-white"
+            className="duration-200 px-8 py-2 text-white bg-softRed border-2 border-softRed rounded-lg shadow-md hover:text-softRed hover:bg-white"
           >
             Login
           </a>

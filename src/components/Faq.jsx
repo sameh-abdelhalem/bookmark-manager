@@ -34,7 +34,7 @@ const Faq = () => {
                     <path
                       fill="none"
                       stroke="currentColor"
-                      stroke-width="3"
+                      strokeWidth="3"
                       d="M1 1l8 8 8-8"
                     />
                   </svg>
@@ -42,7 +42,7 @@ const Faq = () => {
               </div>
               {/* Tab inner Content */}
               <div className="overflow-hidden transition duration-500 group-focus:max-h-screen max-h-0 ease">
-                <p class="py-2 text-justify text-gray-400">
+                <p className="py-2 text-justify text-gray-400">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Fugiat, repellat amet doloribus consequuntur eos similique
                   provident tempora voluptates iure quia fuga dicta voluptatibus
@@ -68,7 +68,7 @@ const Faq = () => {
                     <path
                       fill="none"
                       stroke="currentColor"
-                      stroke-width="3"
+                      strokeWidth="3"
                       d="M1 1l8 8 8-8"
                     />
                   </svg>
@@ -76,7 +76,7 @@ const Faq = () => {
               </div>
               {/* Tab inner Content */}
               <div className="overflow-hidden transition duration-500 group-focus:max-h-screen max-h-0 ease">
-                <p class="py-2 text-justify text-gray-400">
+                <p className="py-2 text-justify text-gray-400">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Fugiat, repellat amet doloribus consequuntur eos similique
                   provident tempora voluptates iure quia fuga dicta voluptatibus
@@ -102,7 +102,7 @@ const Faq = () => {
                     <path
                       fill="none"
                       stroke="currentColor"
-                      stroke-width="3"
+                      strokeWidth="3"
                       d="M1 1l8 8 8-8"
                     />
                   </svg>
@@ -110,7 +110,7 @@ const Faq = () => {
               </div>
               {/* Tab inner Content */}
               <div className="overflow-hidden transition duration-500 group-focus:max-h-screen max-h-0 ease">
-                <p class="py-2 text-justify text-gray-400">
+                <p className="py-2 text-justify text-gray-400">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Fugiat, repellat amet doloribus consequuntur eos similique
                   provident tempora voluptates iure quia fuga dicta voluptatibus
@@ -136,7 +136,7 @@ const Faq = () => {
                     <path
                       fill="none"
                       stroke="currentColor"
-                      stroke-width="3"
+                      strokeWidth="3"
                       d="M1 1l8 8 8-8"
                     />
                   </svg>
@@ -144,7 +144,7 @@ const Faq = () => {
               </div>
               {/* Tab inner Content */}
               <div className="overflow-hidden transition duration-500 group-focus:max-h-screen max-h-0 ease">
-                <p class="py-2 text-justify text-gray-400">
+                <p className="py-2 text-justify text-gray-400">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Fugiat, repellat amet doloribus consequuntur eos similique
                   provident tempora voluptates iure quia fuga dicta voluptatibus

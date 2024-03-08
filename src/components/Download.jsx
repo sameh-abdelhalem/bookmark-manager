@@ -32,7 +32,7 @@ const Download = () => {
             <div className="bg-dots bg-repeat-x px-6 pt-6 capitalize">
               <a
                 href="#"
-                class="block w-full py-3 text-white duration-200 border-2 rounded-lg bg-softBlue hover:text-softBlue hover:bg-white border-softBlue"
+                className="block w-full py-3 text-white duration-200 border-2 rounded-lg bg-softBlue hover:text-softBlue hover:bg-white border-softBlue"
               >
                 Add & Install Extension
               </a>
@@ -52,7 +52,7 @@ const Download = () => {
               <div className="bg-dots bg-repeat-x px-6 pt-6 capitalize">
                 <a
                   href="#"
-                  class="block w-full py-3 text-white duration-200 border-2 rounded-lg bg-softBlue hover:text-softBlue hover:bg-white border-softBlue"
+                  className="block w-full py-3 text-white duration-200 border-2 rounded-lg bg-softBlue hover:text-softBlue hover:bg-white border-softBlue"
                 >
                   Add & Install Extension
                 </a>
@@ -73,7 +73,7 @@ const Download = () => {
               <div className="bg-dots bg-repeat-x px-6 pt-6 capitalize">
                 <a
                   href="#"
-                  class="block w-full py-3 text-white duration-200 border-2 rounded-lg bg-softBlue hover:text-softBlue hover:bg-white border-softBlue"
+                  className="block w-full py-3 text-white duration-200 border-2 rounded-lg bg-softBlue hover:text-softBlue hover:bg-white border-softBlue"
                 >
                   Add & Install Extension
                 </a>

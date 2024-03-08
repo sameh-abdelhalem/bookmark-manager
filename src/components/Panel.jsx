@@ -13,10 +13,10 @@ const Panel = (props) => {
         <p className="max-w-md text-center text-grayishBlue md:text-left">
           {props.paragraph}
         </p>
-        <div class="mx-auto md:mx-0">
+        <div className="mx-auto md:mx-0">
           <a
             href="#"
-            class=" duration-200  px-6 py-3 mt-4 font-semibold text-white border-2 border-white rounded-lg md:inline-flex bg-softBlue hover:bg-white hover:text-softBlue hover:border-softBlue hover:border-2"
+            className=" duration-200  px-6 py-3 mt-4 font-semibold text-white border-2 border-white rounded-lg md:inline-flex bg-softBlue hover:bg-white hover:text-softBlue hover:border-softBlue hover:border-2"
           >
             More Info
           </a>
